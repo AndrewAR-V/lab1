@@ -1,0 +1,6 @@
+c:\users\liana\documents\visual studio 2013\Projects\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3\obj\Debug\lab3.pdb

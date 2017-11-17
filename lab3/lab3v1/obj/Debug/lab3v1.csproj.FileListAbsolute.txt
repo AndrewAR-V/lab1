@@ -1,0 +1,9 @@
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\bin\Debug\lab3v1.exe.config
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\bin\Debug\lab3v1.exe
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\bin\Debug\lab3v1.pdb
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\obj\Debug\lab3v1.csprojResolveAssemblyReference.cache
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\obj\Debug\lab3v1.Form1.resources
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\obj\Debug\lab3v1.Properties.Resources.resources
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\obj\Debug\lab3v1.csproj.GenerateResource.Cache
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\obj\Debug\lab3v1.exe
+C:\Users\Liana\documents\visual studio 2013\Projects\lab3\lab3v1\obj\Debug\lab3v1.pdb
